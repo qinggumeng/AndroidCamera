@@ -1,6 +1,6 @@
-<mxfile modified="2024-05-16T07:15:31.149Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ApzgnM3jHnS_Ska6ROyV" version="24.4.2" type="github">
+<mxfile modified="2024-05-16T07:17:38.935Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BMsqiICNfsFwR1JSc-9S" version="24.4.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="954" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,6 +147,9 @@
         </mxCell>
         <mxCell id="OCDVWeA8JlL5O7n3Pmvq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OCDVWeA8JlL5O7n3Pmvq-23" target="OCDVWeA8JlL5O7n3Pmvq-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCDVWeA8JlL5O7n3Pmvq-32" value="体系软件数据交互设计架构图" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="479" y="7.105427357601002e-15" width="242" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
